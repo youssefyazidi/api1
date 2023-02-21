@@ -1,227 +1,31 @@
-[
-  {
-    "_id": "63f4a64537c18b2698f7b039",
-    "index": 0,
-    "guid": "13c20321-1051-4d01-985d-7e14c1ba8366",
-    "isActive": false,
-    "balance": "$2,214.50",
-    "picture": "http://placehold.it/32x32",
-    "age": 32,
-    "eyeColor": "green",
-    "name": "Jordan Holt",
-    "gender": "male",
-    "company": "ROTODYNE",
-    "email": "jordanholt@rotodyne.com",
-    "phone": "+1 (997) 574-3608",
-    "address": "606 Harway Avenue, Austinburg, Maryland, 3248",
-    "about": "Consectetur sunt magna pariatur ad do velit est in adipisicing enim exercitation pariatur. Quis ad ex cillum ea ullamco proident nostrud non in consectetur ea. Pariatur sit in incididunt occaecat proident esse quis veniam consequat ea ut nulla do ullamco. Do sint ex deserunt labore amet in veniam. Duis commodo dolore enim duis sunt ipsum est consectetur elit exercitation ut. Aliqua quis voluptate occaecat laboris. Do ullamco consequat do anim.\r\n",
-    "registered": "2015-05-14T01:57:26 -01:00",
-    "latitude": -27.29694,
-    "longitude": -54.606337,
-    "tags": [
-      "dolore",
-      "id",
-      "eiusmod",
-      "sunt",
-      "culpa",
-      "laboris",
-      "qui"
-    ],
-    "friends": [
-      {
-        "id": 0,
-        "name": "Bray Mcmillan"
-      },
-      {
-        "id": 1,
-        "name": "Luisa Guzman"
-      },
-      {
-        "id": 2,
-        "name": "Magdalena Smith"
-      }
-    ],
-    "greeting": "Hello, Jordan Holt! You have 3 unread messages.",
-    "favoriteFruit": "banana"
-  },
-  {
-    "_id": "63f4a6455ca3c50f0ddceef7",
-    "index": 1,
-    "guid": "ab43eb35-4bb3-46eb-a699-8a78d9297bcf",
-    "isActive": false,
-    "balance": "$1,789.53",
-    "picture": "http://placehold.it/32x32",
-    "age": 32,
-    "eyeColor": "blue",
-    "name": "Deann Mccall",
-    "gender": "female",
-    "company": "ZILENCIO",
-    "email": "deannmccall@zilencio.com",
-    "phone": "+1 (998) 570-3836",
-    "address": "612 Little Street, Dalton, New Jersey, 733",
-    "about": "Ea nisi aliquip tempor labore laborum occaecat anim laboris et quis. Consectetur exercitation enim do do ea consectetur sint velit anim nisi enim nisi. Incididunt id voluptate Lorem proident ex consectetur mollit irure culpa nulla commodo. Enim est do consequat voluptate sint consectetur tempor.\r\n",
-    "registered": "2016-08-21T06:07:28 -01:00",
-    "latitude": -21.407015,
-    "longitude": 68.578231,
-    "tags": [
-      "laborum",
-      "voluptate",
-      "non",
-      "sunt",
-      "nisi",
-      "ad",
-      "non"
-    ],
-    "friends": [
-      {
-        "id": 0,
-        "name": "Berta Farrell"
-      },
-      {
-        "id": 1,
-        "name": "Mclean Jackson"
-      },
-      {
-        "id": 2,
-        "name": "Collier Hampton"
-      }
-    ],
-    "greeting": "Hello, Deann Mccall! You have 1 unread messages.",
-    "favoriteFruit": "strawberry"
-  },
-  {
-    "_id": "63f4a6459cad381c94136443",
-    "index": 2,
-    "guid": "a8d09564-4c88-409f-9d1d-f0dba0f56525",
-    "isActive": false,
-    "balance": "$3,060.13",
-    "picture": "http://placehold.it/32x32",
-    "age": 26,
-    "eyeColor": "brown",
-    "name": "Michele Spears",
-    "gender": "female",
-    "company": "AQUOAVO",
-    "email": "michelespears@aquoavo.com",
-    "phone": "+1 (848) 465-3690",
-    "address": "212 Dictum Court, Lumberton, Marshall Islands, 7632",
-    "about": "Velit amet consequat eu do. Elit anim qui non quis reprehenderit dolor laborum pariatur dolor amet proident adipisicing deserunt. Culpa aliquip excepteur ipsum ullamco dolore eu sit dolore pariatur officia sunt adipisicing. Mollit pariatur enim elit duis tempor cupidatat. Aute ad aute excepteur mollit ea ullamco dolore. Nisi elit nulla qui elit mollit officia qui veniam irure laboris.\r\n",
-    "registered": "2014-03-24T05:50:15 -00:00",
-    "latitude": 40.116688,
-    "longitude": -156.647974,
-    "tags": [
-      "amet",
-      "amet",
-      "officia",
-      "qui",
-      "minim",
-      "incididunt",
-      "est"
-    ],
-    "friends": [
-      {
-        "id": 0,
-        "name": "Cathy Duke"
-      },
-      {
-        "id": 1,
-        "name": "Lesley Arnold"
-      },
-      {
-        "id": 2,
-        "name": "Vazquez Ewing"
-      }
-    ],
-    "greeting": "Hello, Michele Spears! You have 9 unread messages.",
-    "favoriteFruit": "strawberry"
-  },
-  {
-    "_id": "63f4a6453201028a2ed61eb5",
-    "index": 3,
-    "guid": "b3b22582-3a58-43ad-9995-93cf4687e912",
-    "isActive": false,
-    "balance": "$2,302.99",
-    "picture": "http://placehold.it/32x32",
-    "age": 34,
-    "eyeColor": "brown",
-    "name": "Justice Dixon",
-    "gender": "male",
-    "company": "MIXERS",
-    "email": "justicedixon@mixers.com",
-    "phone": "+1 (955) 555-2812",
-    "address": "381 Woodpoint Road, Ticonderoga, American Samoa, 8096",
-    "about": "Duis cupidatat dolore consectetur consectetur. Minim non nulla reprehenderit labore nostrud laborum et dolore nostrud nulla irure exercitation aute. Sunt officia ipsum do anim Lorem ea sunt. Lorem consectetur non velit adipisicing adipisicing amet est voluptate esse cillum nulla occaecat. Velit nisi aliquip quis cillum irure deserunt excepteur. Deserunt incididunt dolor adipisicing ex. Do deserunt minim commodo qui incididunt ex et et cupidatat voluptate.\r\n",
-    "registered": "2015-03-21T07:46:19 -00:00",
-    "latitude": 18.272265,
-    "longitude": 145.342185,
-    "tags": [
-      "aliquip",
-      "proident",
-      "amet",
-      "proident",
-      "ullamco",
-      "do",
-      "fugiat"
-    ],
-    "friends": [
-      {
-        "id": 0,
-        "name": "Fran Simpson"
-      },
-      {
-        "id": 1,
-        "name": "Marsha Cross"
-      },
-      {
-        "id": 2,
-        "name": "Harriet Spence"
-      }
-    ],
-    "greeting": "Hello, Justice Dixon! You have 5 unread messages.",
-    "favoriteFruit": "banana"
-  },
-  {
-    "_id": "63f4a645f097a2f3f74bb936",
-    "index": 4,
-    "guid": "2b29ba68-ba3c-4af6-a250-78ca5ba8e50d",
-    "isActive": true,
-    "balance": "$3,992.42",
-    "picture": "http://placehold.it/32x32",
-    "age": 29,
-    "eyeColor": "green",
-    "name": "Helena Baxter",
-    "gender": "female",
-    "company": "ZILLAR",
-    "email": "helenabaxter@zillar.com",
-    "phone": "+1 (916) 440-3413",
-    "address": "191 Evans Street, Crenshaw, Utah, 7570",
-    "about": "Fugiat deserunt consectetur aute ea excepteur anim mollit fugiat. Laboris ullamco in reprehenderit aliquip elit ex exercitation quis exercitation ullamco. Sit dolor deserunt veniam ut commodo. Veniam eiusmod id mollit pariatur in elit sunt. Minim anim id minim cillum. Proident aliquip minim do ad voluptate fugiat ex.\r\n",
-    "registered": "2015-08-24T11:24:24 -01:00",
-    "latitude": -48.913141,
-    "longitude": 122.414894,
-    "tags": [
-      "proident",
-      "in",
-      "elit",
-      "do",
-      "consectetur",
-      "non",
-      "sint"
-    ],
-    "friends": [
-      {
-        "id": 0,
-        "name": "Huff Hale"
-      },
-      {
-        "id": 1,
-        "name": "Raquel Marshall"
-      },
-      {
-        "id": 2,
-        "name": "Glenna Blackwell"
-      }
-    ],
-    "greeting": "Hello, Helena Baxter! You have 2 unread messages.",
-    "favoriteFruit": "banana"
+{
+  "posts": [
+    {
+      "id": 1,
+      "title": "Post 1"
+    },
+    {
+      "id": 2,
+      "title": "Post 2"
+    },
+    {
+      "id": 3,
+      "title": "Post 3"
+    }
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "body": "some comment",
+      "postId": 1
+    },
+    {
+      "id": 2,
+      "body": "some comment",
+      "postId": 1
+    }
+  ],
+  "profile": {
+    "name": "typicode"
   }
-]
+}
