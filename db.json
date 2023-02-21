@@ -2,7 +2,8 @@
   "posts": [
     {
       "id": 1,
-      "title": "Post 1"
+      "title": "Post 1",
+      "uri":"https://github.com/youssefyazidi/api1/blob/main/pending.png"
     },
     {
       "id": 2,
