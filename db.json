@@ -1,32 +1,14 @@
 {
-  "posts": [
+  "countries": [
     {
       "id": 1,
-      "title": "Post 1",
-      "uri":"https://github.com/youssefyazidi/api1/blob/main/pending.png"
+      "name": "Maroc",
+      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/Flag_of_Morocco.svg/165px-Flag_of_Morocco.svg.png"
     },
     {
       "id": 2,
-      "title": "Post 2"
-    },
-    {
-      "id": 3,
-      "title": "Post 3"
+      "name": "Algerie",
+      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/Flag_of_Algeria.svg/165px-Flag_of_Algeria.svg.png"
     }
-  ],
-  "comments": [
-    {
-      "id": 1,
-      "body": "some comment",
-      "postId": 1
-    },
-    {
-      "id": 2,
-      "body": "some comment",
-      "postId": 1
-    }
-  ],
-  "profile": {
-    "name": "typicode"
-  }
+  ]
 }
