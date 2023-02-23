@@ -28,7 +28,8 @@
     {
       "id": 2,
       "name": "Algerie",
-      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/Flag_of_Algeria.svg/165px-Flag_of_Algeria.svg.png"
+      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/Flag_of_Algeria.svg/165px-Flag_of_Algeria.svg.png",
+       "cities":[]
     }
     ,
     {
