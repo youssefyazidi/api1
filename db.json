@@ -29,7 +29,20 @@
       "id": 2,
       "name": "Algerie",
       "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/Flag_of_Algeria.svg/165px-Flag_of_Algeria.svg.png",
-       "cities":[]
+       "cities":[
+       {
+          "id":4,
+          "name":"Oran",
+          "hb":800000,
+          "img":"https://upload.wikimedia.org/wikipedia/commons/thumb/5/55/ORAN_%2C_VILLE_D%27ALGERIE.jpg/419px-ORAN_%2C_VILLE_D%27ALGERIE.jpg"
+        },
+         {
+          "id":5,
+          "name":"Alger",
+          "hb":1000000,
+          "img":"https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Algiers_Montage.png/420px-Algiers_Montage.png"
+        }
+       ]
     }
     ,
     {
