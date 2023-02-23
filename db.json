@@ -22,7 +22,7 @@
          {
           "id":3,
           "name":"Rabat",
-           "description":"En arabe : الرباط. C\\'est la capitale du Maroc. La ville est située au bord de l\'Atlantique au nord-ouest du Maroc. A 40 km au sud de Kénitra et 240 km au sud-ouest de Tanger et du détroit de Gibraltar, et à 87 km au nord-est de Casablanca. Elle est séparée de la ville de Salé au niveau de l\'embouchure du Bouregreg, d\'où leur surnom de « villes jumelles ».",
+           "description":"En arabe : الرباط. C\\'est la capitale du Maroc. La ville est située au bord de l\\'Atlantique au nord-ouest du Maroc. A 40 km au sud de Kénitra et 240 km au sud-ouest de Tanger et du détroit de Gibraltar, et à 87 km au nord-est de Casablanca. Elle est séparée de la ville de Salé au niveau de l\\'embouchure du Bouregreg, d\\'où leur surnom de « villes jumelles ».",
           "hb":1000000,
           "img":"https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Bab_Ouda%C3%AFa_porte_de_la_Kasbah_des_Oudaias_P1060309.JPG/330px-Bab_Ouda%C3%AFa_porte_de_la_Kasbah_des_Oudaias_P1060309.JPG"
         }
@@ -36,14 +36,14 @@
        {
           "id":4,
           "name":"Oran",
-         "description":"Oran en arabe : وهران, est la deuxième plus grande ville d’Algérie et une des plus importantes villes du Maghreb.C\'est une ville portuaire de la mer Méditerranée, située dans le nord-ouest de l\'Algérie, à 432 km de la capitale Alger, et le chef-lieu de la wilaya du même nom, en bordure du golfe d\'Oran.",
+         "description":"Oran en arabe : وهران, est la deuxième plus grande ville d’Algérie et une des plus importantes villes du Maghreb.C\\'est une ville portuaire de la mer Méditerranée, située dans le nord-ouest de l\\'Algérie, à 432 km de la capitale Alger, et le chef-lieu de la wilaya du même nom, en bordure du golfe d\\'Oran.",
           "hb":800000,
           "img":"https://upload.wikimedia.org/wikipedia/commons/thumb/5/55/ORAN_%2C_VILLE_D%27ALGERIE.jpg/419px-ORAN_%2C_VILLE_D%27ALGERIE.jpg"
         },
          {
           "id":5,
           "name":"Alger",
-           "description":"Alger en arabe : الجزائر , est la capitale de l\'Algérie et en est la ville la plus peuplée. Située au bord de la mer Méditerranée, la ville donne son nom à la wilaya dont elle est le chef-lieu. La ville d\'Alger est en fait constituée de plusieurs communes et n\'a ni personnalité juridique, ni structure d\'administration en propre.",
+           "description":"Alger en arabe : الجزائر , est la capitale de l\\'Algérie et en est la ville la plus peuplée. Située au bord de la mer Méditerranée, la ville donne son nom à la wilaya dont elle est le chef-lieu. La ville d\\'Alger est en fait constituée de plusieurs communes et n\\'a ni personnalité juridique, ni structure d\\'administration en propre.",
           "hb":1000000,
           "img":"https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Algiers_Montage.png/420px-Algiers_Montage.png"
         }
