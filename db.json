@@ -9,19 +9,19 @@
           "id":1,
           "name":"Casablanca",
           "hb":4000000,
-          "img","https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/Casablanca_%285281127436%29.jpg/1024px-Casablanca_%285281127436%29.jpg"
+          "img":"https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/Casablanca_%285281127436%29.jpg/1024px-Casablanca_%285281127436%29.jpg"
         },
          {
           "id":2,
           "name":"Tanger",
           "hb":2000000,
-          "img","https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/Casablanca_%285281127436%29.jpg/1024px-Casablanca_%285281127436%29.jpg"
+          "img":"https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/Tanger_cor.jpg/419px-Tanger_cor.jpg"
         },
          {
           "id":3,
           "name":"Rabat",
           "hb":1000000,
-          "img","https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/Casablanca_%285281127436%29.jpg/1024px-Casablanca_%285281127436%29.jpg"
+          "img":"https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Bab_Ouda%C3%AFa_porte_de_la_Kasbah_des_Oudaias_P1060309.JPG/330px-Bab_Ouda%C3%AFa_porte_de_la_Kasbah_des_Oudaias_P1060309.JPG"
         }
       ]
     },
