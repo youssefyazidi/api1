@@ -3,7 +3,27 @@
     {
       "id": 1,
       "name": "Maroc",
-      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/Flag_of_Morocco.svg/165px-Flag_of_Morocco.svg.png"
+      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/Flag_of_Morocco.svg/165px-Flag_of_Morocco.svg.png",
+      "cities":[
+        {
+          "id":1,
+          "name":"Casablanca",
+          "hb":4000000,
+          "img","https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/Casablanca_%285281127436%29.jpg/1024px-Casablanca_%285281127436%29.jpg"
+        },
+         {
+          "id":2,
+          "name":"Tanger",
+          "hb":2000000,
+          "img","https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/Casablanca_%285281127436%29.jpg/1024px-Casablanca_%285281127436%29.jpg"
+        },
+         {
+          "id":3,
+          "name":"Rabat",
+          "hb":1000000,
+          "img","https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/Casablanca_%285281127436%29.jpg/1024px-Casablanca_%285281127436%29.jpg"
+        }
+      ]
     },
     {
       "id": 2,
