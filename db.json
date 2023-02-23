@@ -8,21 +8,21 @@
         {
           "id":1,
           "name":"Casablanca",
-          "description":"En arabe : الدار البيضاء.  c\' est une grande ville située au centre-ouest du Maroc. Capitale économique du pays et plus grande ville du Maghreb par la population, elle est située sur la côte atlantique, à environ 80 km au sud de Rabat, la capitale administrative",
+          "description":"En arabe : الدار البيضاء.  c\\' est une grande ville située au centre-ouest du Maroc. Capitale économique du pays et plus grande ville du Maghreb par la population, elle est située sur la côte atlantique, à environ 80 km au sud de Rabat, la capitale administrative",
           "hb":4000000,
           "img":"https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/Casablanca_%285281127436%29.jpg/1024px-Casablanca_%285281127436%29.jpg"
         },
          {
           "id":2,
           "name":"Tanger",
-           "description":"Tanger En arabe : طنجة est une ville du Nord du Maroc, première ville économique du Maroc, capitale de la région de Tanger-Tétouan-Al Hoceïma.   Située à l\'extrémité du Nord-Ouest du pays sur le détroit de Gibraltar. La ville se trouve à 14 kilomètres de la côte espagnole.",
+           "description":"Tanger En arabe : طنجة est une ville du Nord du Maroc, première ville économique du Maroc, capitale de la région de Tanger-Tétouan-Al Hoceïma.   Située à l\\'extrémité du Nord-Ouest du pays sur le détroit de Gibraltar. La ville se trouve à 14 kilomètres de la côte espagnole.",
           "hb":2000000,
           "img":"https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/Tanger_cor.jpg/419px-Tanger_cor.jpg"
         },
          {
           "id":3,
           "name":"Rabat",
-           "description":"En arabe : الرباط. C\'est la capitale du Maroc. La ville est située au bord de l\'Atlantique au nord-ouest du Maroc. A 40 km au sud de Kénitra et 240 km au sud-ouest de Tanger et du détroit de Gibraltar, et à 87 km au nord-est de Casablanca. Elle est séparée de la ville de Salé au niveau de l\'embouchure du Bouregreg, d\'où leur surnom de « villes jumelles ».",
+           "description":"En arabe : الرباط. C\\'est la capitale du Maroc. La ville est située au bord de l\'Atlantique au nord-ouest du Maroc. A 40 km au sud de Kénitra et 240 km au sud-ouest de Tanger et du détroit de Gibraltar, et à 87 km au nord-est de Casablanca. Elle est séparée de la ville de Salé au niveau de l\'embouchure du Bouregreg, d\'où leur surnom de « villes jumelles ».",
           "hb":1000000,
           "img":"https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Bab_Ouda%C3%AFa_porte_de_la_Kasbah_des_Oudaias_P1060309.JPG/330px-Bab_Ouda%C3%AFa_porte_de_la_Kasbah_des_Oudaias_P1060309.JPG"
         }
